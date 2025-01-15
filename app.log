@@ -1,0 +1,160 @@
+A sintaxe do nome do arquivo, do nome do diret¢rio ou do r¢tulo do volume est  incorreta.
+2025-01-15 12:28:24,988 - INFO - Aplicativo iniciado.
+2025-01-15 12:28:24,989 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:28:25,003 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.169.231:5000
+2025-01-15 12:28:25,003 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 12:28:25,004 - INFO -  * Restarting with stat
+2025-01-15 12:28:25,316 - INFO - Aplicativo iniciado.
+2025-01-15 12:28:25,317 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:28:25,326 - WARNING -  * Debugger is active!
+2025-01-15 12:28:25,327 - INFO -  * Debugger PIN: 310-674-656
+2025-01-15 12:28:34,092 - INFO - Endpoint '/' foi acessado.
+2025-01-15 12:28:34,119 - INFO - 127.0.0.1 - - [15/Jan/2025 12:28:34] "[36mGET / HTTP/1.1[0m" 304 -
+2025-01-15 12:28:34,136 - INFO - 127.0.0.1 - - [15/Jan/2025 12:28:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-01-15 12:28:34,192 - INFO - 127.0.0.1 - - [15/Jan/2025 12:28:34] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+2025-01-15 12:31:08,159 - INFO - Aplicativo iniciado.
+2025-01-15 12:31:08,167 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:31:08,182 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.169.231:5000
+2025-01-15 12:31:08,183 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 12:31:08,183 - INFO -  * Restarting with stat
+2025-01-15 12:31:08,494 - INFO - Aplicativo iniciado.
+2025-01-15 12:31:08,495 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:31:08,503 - WARNING -  * Debugger is active!
+2025-01-15 12:31:08,504 - INFO -  * Debugger PIN: 310-674-656
+2025-01-15 12:32:38,156 - INFO - Aplicativo iniciado.
+2025-01-15 12:32:38,158 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:32:38,172 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.169.231:5000
+2025-01-15 12:32:38,172 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 12:32:38,173 - INFO -  * Restarting with stat
+2025-01-15 12:32:38,485 - INFO - Aplicativo iniciado.
+2025-01-15 12:32:38,486 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:32:38,496 - WARNING -  * Debugger is active!
+2025-01-15 12:32:38,497 - INFO -  * Debugger PIN: 310-674-656
+2025-01-15 12:33:07,608 - INFO - Aplicativo iniciado.
+2025-01-15 12:33:07,609 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:33:07,624 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.169.231:5000
+2025-01-15 12:33:07,624 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 12:33:07,625 - INFO -  * Restarting with stat
+2025-01-15 12:33:07,934 - INFO - Aplicativo iniciado.
+2025-01-15 12:33:07,936 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:33:07,944 - WARNING -  * Debugger is active!
+2025-01-15 12:33:07,945 - INFO -  * Debugger PIN: 310-674-656
+2025-01-15 12:33:27,235 - INFO - Aplicativo iniciado.
+2025-01-15 12:33:27,236 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:33:27,250 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.169.231:5000
+2025-01-15 12:33:27,250 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 12:33:27,251 - INFO -  * Restarting with stat
+2025-01-15 12:33:27,559 - INFO - Aplicativo iniciado.
+2025-01-15 12:33:27,560 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:33:27,568 - WARNING -  * Debugger is active!
+2025-01-15 12:33:27,569 - INFO -  * Debugger PIN: 310-674-656
+2025-01-15 12:33:41,977 - INFO - Aplicativo iniciado.
+2025-01-15 12:33:41,979 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:33:41,992 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.169.231:5000
+2025-01-15 12:33:41,992 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 12:33:41,993 - INFO -  * Restarting with stat
+2025-01-15 12:33:42,301 - INFO - Aplicativo iniciado.
+2025-01-15 12:33:42,302 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:33:42,310 - WARNING -  * Debugger is active!
+2025-01-15 12:33:42,311 - INFO -  * Debugger PIN: 310-674-656
+2025-01-15 12:33:48,102 - INFO - Endpoint '/' foi acessado.
+2025-01-15 12:33:48,129 - INFO - 127.0.0.1 - - [15/Jan/2025 12:33:48] "[36mGET / HTTP/1.1[0m" 304 -
+2025-01-15 12:33:48,147 - INFO - 127.0.0.1 - - [15/Jan/2025 12:33:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-01-15 12:33:48,149 - INFO - 127.0.0.1 - - [15/Jan/2025 12:33:48] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+2025-01-15 12:33:55,473 - INFO - Arquivo salvo: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_duodeno.jpg
+2025-01-15 12:33:55,487 - INFO - DICOM criado: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_duodeno.dcm
+2025-01-15 12:33:55,488 - INFO - Requesting Association
+2025-01-15 12:33:55,492 - INFO - Association Accepted
+2025-01-15 12:33:55,496 - INFO - Sending Store Request: MsgID 1, (CT)
+2025-01-15 12:33:55,606 - INFO - Received Store Response (Status: 0x0000 - Success)
+2025-01-15 12:33:55,607 - INFO - Releasing Association
+2025-01-15 12:33:55,622 - INFO - DICOM enviado ao PACS: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_duodeno.dcm
+2025-01-15 12:33:55,622 - INFO - Arquivo JPG excluído: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_duodeno.jpg
+2025-01-15 12:33:55,623 - INFO - Arquivo salvo: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_endoscopia.jpg
+2025-01-15 12:33:55,635 - INFO - DICOM criado: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_endoscopia.dcm
+2025-01-15 12:33:55,638 - INFO - Requesting Association
+2025-01-15 12:33:55,644 - INFO - Association Accepted
+2025-01-15 12:33:55,651 - INFO - Sending Store Request: MsgID 1, (CT)
+2025-01-15 12:33:55,758 - INFO - Received Store Response (Status: 0x0000 - Success)
+2025-01-15 12:33:55,759 - INFO - Releasing Association
+2025-01-15 12:33:55,773 - INFO - DICOM enviado ao PACS: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_endoscopia.dcm
+2025-01-15 12:33:55,773 - INFO - Arquivo JPG excluído: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_endoscopia.jpg
+2025-01-15 12:33:55,773 - INFO - Arquivo salvo: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_images.jpg
+2025-01-15 12:33:55,776 - INFO - DICOM criado: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_images.dcm
+2025-01-15 12:33:55,777 - INFO - Requesting Association
+2025-01-15 12:33:55,781 - INFO - Association Accepted
+2025-01-15 12:33:55,787 - INFO - Sending Store Request: MsgID 1, (CT)
+2025-01-15 12:33:55,816 - INFO - Received Store Response (Status: 0x0000 - Success)
+2025-01-15 12:33:55,816 - INFO - Releasing Association
+2025-01-15 12:33:55,831 - INFO - DICOM enviado ao PACS: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_images.dcm
+2025-01-15 12:33:55,831 - INFO - Arquivo JPG excluído: output\MARIA_DO_SOCORRO_SILVA_DURANS 13090_images.jpg
+2025-01-15 12:33:55,831 - INFO - Todos os arquivos processados com sucesso.
+2025-01-15 12:33:55,832 - INFO - 127.0.0.1 - - [15/Jan/2025 12:33:55] "POST /upload HTTP/1.1" 200 -
+2025-01-15 12:35:21,590 - INFO - Aplicativo iniciado.
+2025-01-15 12:35:21,590 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:35:21,615 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.169.231:5000
+2025-01-15 12:35:21,615 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 12:35:21,616 - INFO -  * Restarting with stat
+2025-01-15 12:35:21,976 - INFO - Aplicativo iniciado.
+2025-01-15 12:35:21,978 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:35:21,986 - WARNING -  * Debugger is active!
+2025-01-15 12:35:21,992 - INFO -  * Debugger PIN: 310-674-656
+2025-01-15 12:35:43,621 - INFO - Aplicativo iniciado.
+2025-01-15 12:35:43,624 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:35:43,638 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.169.231:5000
+2025-01-15 12:35:43,638 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 12:35:43,639 - INFO -  * Restarting with stat
+2025-01-15 12:35:43,970 - INFO - Aplicativo iniciado.
+2025-01-15 12:35:43,972 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 12:35:43,981 - WARNING -  * Debugger is active!
+2025-01-15 12:35:43,982 - INFO -  * Debugger PIN: 310-674-656
+2025-01-15 14:50:28,248 - INFO - Aplicativo iniciado.
+2025-01-15 14:50:28,254 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 14:50:28,831 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.2:5000
+2025-01-15 14:50:28,831 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 14:50:28,836 - INFO -  * Restarting with stat
+2025-01-15 14:50:30,902 - INFO - Aplicativo iniciado.
+2025-01-15 14:50:30,907 - INFO - Aplicativo iniciado no modo debug.
+2025-01-15 14:50:30,992 - WARNING -  * Debugger is active!
+2025-01-15 14:50:31,003 - INFO -  * Debugger PIN: 218-960-146
+2025-01-15 14:50:35,756 - INFO - Endpoint '/' foi acessado.
+2025-01-15 14:50:35,879 - INFO - Endpoint '/' foi acessado.
+2025-01-15 14:50:36,012 - INFO - 127.0.0.1 - - [15/Jan/2025 14:50:36] "GET / HTTP/1.1" 200 -
+2025-01-15 14:50:36,073 - INFO - 127.0.0.1 - - [15/Jan/2025 14:50:36] "GET / HTTP/1.1" 200 -
+2025-01-15 14:50:36,120 - INFO - 127.0.0.1 - - [15/Jan/2025 14:50:36] "GET /static/style.css HTTP/1.1" 200 -
+2025-01-15 14:50:36,227 - INFO - 127.0.0.1 - - [15/Jan/2025 14:50:36] "GET /static/logo.png HTTP/1.1" 200 -
+2025-01-15 14:50:36,435 - INFO - 127.0.0.1 - - [15/Jan/2025 14:50:36] "GET /static/favicon.ico HTTP/1.1" 200 -
+2025-01-15 14:50:43,259 - INFO - 127.0.0.1 - - [15/Jan/2025 14:50:43] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2025-01-15 14:51:20,481 - INFO - Endpoint '/' foi acessado.
+2025-01-15 14:51:20,485 - INFO - 127.0.0.1 - - [15/Jan/2025 14:51:20] "[36mGET / HTTP/1.1[0m" 304 -
+2025-01-15 14:51:20,520 - INFO - 127.0.0.1 - - [15/Jan/2025 14:51:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-01-15 14:51:20,525 - INFO - 127.0.0.1 - - [15/Jan/2025 14:51:20] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+2025-01-15 15:00:28,212 - INFO - 127.0.0.1 - - [15/Jan/2025 15:00:28] "[33mGET /icons/icon-192x192.png HTTP/1.1[0m" 404 -
+2025-01-15 15:00:28,829 - INFO - 127.0.0.1 - - [15/Jan/2025 15:00:28] "[33mGET /icons/icon-512x512.png HTTP/1.1[0m" 404 -
